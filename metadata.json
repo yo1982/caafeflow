@@ -1,0 +1,5 @@
+{
+  "name": "Cafe Flow - Menu & Order Management",
+  "description": "A comprehensive cafe management system. Customers can browse an attractive menu, place dine-in or drive-thru orders, and pay online. Each branch has a dedicated control panel for baristas to manage orders, edit the menu, and view revenue reports.",
+  "requestFramePermissions": []
+}
